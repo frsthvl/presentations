@@ -1,7 +1,6 @@
 ---
 title: Ein Test Slide
 description: Das ist ein Test
-color: "#000"
 ---
 
 # Das ist ein Test
