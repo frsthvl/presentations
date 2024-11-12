@@ -6,7 +6,7 @@ copyright: So oder wie auch immer gehts
 
 # Das ist ein Test
 
-Hier steht noch etwas
+Hier steht noch <span style="color: #ff7b00">**responsive**</span> etwas anderes vielleicht?
 
 Ein Bild Test:
 ![Bildtest](https://i.giphy.com/1BXa2alBjrCXC.webp)
