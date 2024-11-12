@@ -8,10 +8,18 @@ copyright: So oder wie auch immer gehts
 
 Hier steht noch etwas
 
+Ein Bild Test:
+![Bildtest](https://i.giphy.com/1BXa2alBjrCXC.webp)
+
 - Eine
 - Liste
 - mit
 - Punkten
+
+Code gib'ts auch:
+```javascript
+console.log('BLABLA');
+```
 
 ## Oder so ey
 
