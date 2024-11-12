@@ -2,6 +2,7 @@
 title: Ein Test Slide
 description: Das ist ein Test
 copyright: So oder wie auch immer gehts
+progress: false
 ---
 
 # Das ist ein Test
