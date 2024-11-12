@@ -8,7 +8,8 @@ copyright: So oder wie auch immer gehts
 
 Hier steht noch <span style="color: #ff7b00">**responsive**</span> etwas anderes vielleicht?
 
-Ein Bild Test:
+Ein Bild Test
+
 ![Bildtest](https://i.giphy.com/1BXa2alBjrCXC.webp)
 
 - Eine
