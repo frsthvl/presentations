@@ -1,9 +1,6 @@
 ---
 title: Ein Test Slide
 description: Das ist ein Test
-accent: "#84cc16"
-background: "#facc15"
-color: "#ef4444"
 copyright: So oder wie auch immer gehts
 ---
 
